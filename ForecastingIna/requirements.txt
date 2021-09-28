@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+sys
+master
+tkinter
+tkinterdnd2
+TkinterDnD
+DND_FILES
+PIL
+Image
+ImageTk
+pyperclip
+pathlib
+Path
+
